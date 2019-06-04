@@ -1,5 +1,5 @@
 # EksempelProsjektet
-Opprettet for å inneholde eksempler på kode- og andre standarder vi bør bruke i være prosjekter.
+Opprettet for å inneholde eksempler på kode- og andre standarder vi bør bruke i våre prosjekter.
 
 Inneheolder følgende eksempler:
   - Async / Await
